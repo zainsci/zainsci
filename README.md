@@ -1,7 +1,7 @@
 ### Hello there! I am Zain 👋
  
 - 🔭 I’m currently working on WebDev, C, Python and Javascript
-- 🌱 I’m currently learning React.js, Data Structures, 日本語
+- 🌱 I’m currently learning React.js, TypeScript, Data Structures, 日本語
 <!--
 **zainsci/zainsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
