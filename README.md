@@ -1,7 +1,8 @@
 ### Hello there! I am Zain 👋
  
-- 🔭 I’m currently working on WebDev, C, Python and Javascript
-- 🌱 I’m currently learning React.js, Gatsby.js, 日本語
+- 🔭 For now I'm working with C, Python and Javascript
+- 🌱 I’m currently learning Operating Systems, NextJS and 日本語
+- Follow me on [Twitter](https://twitter.com/zainsci)
 <!--
 **zainsci/zainsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
