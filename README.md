@@ -1,21 +1,21 @@
-### Hello there! I am Zain 👋
+```ts
+class FullStackDev {
+  constructor() {
+    this.name       = "Zain Shabbir"
+    this.role       = "FullStack Developer"
+    this.portfolio  = "https://zainsci.dev"
+    this.twitter    = "https://twitter.com/zainsci"
+    this.languages  = ["TypeScript", "JavaScript", "Python"]
+    this.frontend   = ["React", "NextJs", "Svelte", "SCSS", "TailwindCss"]
+    this.backend    = ["Express", "Flask", "NestJs"]
+    this.interests  = ["Compilers", "UI Design", "Low Level Languages"]
+  }
 
-#### About Me
-- Interested in learning about Compilers and Operating Systems.
-- 🔭 Working with JavaScript, Python and NextJs
-- 🌱 Learning about OS, Programming Langauages, DS and 日本語. 
-- Here's my [Portfolio](https://zainsci.dev)
-- Check out my blog [Here!](https://zainsci.dev/blog)
-- Follow me on [Twitter](https://twitter.com/zainsci) and [Instagram](https://www.instagram.com/zainsci)
-- Open to collaborate on OpenSource projects
+  sayHello() {
+    console.log("Hello There ✋")
+  }
+}
 
-<!--
-**zainsci/zainsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const fullStackDev = new FullStackDev()
+fullStackDev.sayHello()
+```
