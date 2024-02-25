@@ -6,7 +6,7 @@ class SoftwareEngineer {
     this.portfolio  = "https://zainsci.dev"
     this.twitter    = "https://twitter.com/zainsci"
     this.languages  = ["TypeScript", "JavaScript", "Python"]
-    this.frontend   = ["React", "NextJs", "Svelte", "SCSS", "TailwindCSS"]
+    this.frontend   = ["React", "NextJs", "Svelte", "SCSS", "TailwindCSS", "Vue"]
     this.backend    = ["Express", "Flask", "NestJs"]
     this.interests  = ["Compilers", "UI Design", "Low Level Languages"]
   }
